@@ -27,12 +27,8 @@ integer between 0 and 63, inclusive, and are numbered like the example chessboar
 -------------------------------------------
 
 
-Test cases
-==========
-Your code should pass the following test cases.
-Note that it may also be run against hidden test cases not shown here.
-
 Test case:
+
     1.  start:0
         destination:1
             output:3
